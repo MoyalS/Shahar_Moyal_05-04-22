@@ -1,0 +1,61 @@
+#homeScreen{
+    display: flex;
+    flex-direction: column;
+}
+
+#cityWeatheContant{
+    display: flex;
+    flex-direction: column;
+    opacity: 0.9;
+    width: 900px;
+    height: 400px;
+    border-radius: 10px;
+    align-self: center;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.24);
+    padding: 50px;
+    background-color: rgb(253, 253, 253);
+    margin-top: 50px;
+}
+
+#weather{
+    display: flex;
+    justify-content:center;
+    padding: 5px;
+}
+
+#top{
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+#cityName{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#currentTemp{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.autocomplete{
+    display: flex;
+    justify-content:center;
+    margin-top: 60px;
+}
+
+#addToFavorites{
+    color: #b30f0f;
+}
+
+#removeFromFavorites{
+    color: rgb(85, 85, 85);
+}
+
+#favoriteIcon{
+    width: 30px;
+    height: 30px;
+}

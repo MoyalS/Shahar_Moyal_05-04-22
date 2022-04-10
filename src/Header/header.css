@@ -1,0 +1,34 @@
+.header{
+    box-shadow: 0 4px 4px 0 rgba(133, 129, 129, 0.24);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 35px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    background: rgb(207, 243, 243);
+    padding: 5px;
+}
+
+#icons{
+    margin: 10px;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    color: rgb(85, 85, 85);
+    margin: 5px;
+}
+
+#currentPge{
+    margin: 15px;
+    font-size: 20px;
+    color: rgb(85, 85, 85);
+    font-weight: bold;
+}
+
+.linkTo{
+    text-decoration: none!important;
+}

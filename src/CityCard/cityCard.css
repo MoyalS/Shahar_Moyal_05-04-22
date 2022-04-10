@@ -1,0 +1,19 @@
+.cityCard:hover {
+    transform: scale(1.1);
+    color: rgb(0, 0, 0);
+}
+
+.cityCard{
+    width: 200px;
+    height: 250px;
+    cursor: pointer;
+    opacity: 0.8;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.linkItem{
+    text-decoration: none!important;
+    color: rgb(15, 13, 15);
+}

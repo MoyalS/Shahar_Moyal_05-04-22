@@ -1,0 +1,15 @@
+.dayCard{
+    margin: 10px;
+    padding: 5px;
+    align-items: center;
+}
+
+#day{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#temp{
+    margin-top: 10px;
+    font-size: 20px;
+}
