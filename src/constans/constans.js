@@ -9,7 +9,7 @@ export const pages = {
     FAVORITES: 'Favorites'
 }
 
-export const API_KEY = 'i842t00Zc7v0Awm7RfPTWoLNfjVzEAb2';
+export const API_KEY = 'i6NubRzvC3Af8GVXht2dGTpvpSfF5TCC';
 
 export const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
